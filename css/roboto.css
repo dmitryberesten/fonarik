@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('https://magicbrush.allgoodshere.space/css/robotothin.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotothin.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotothin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('https://magicbrush.allgoodshere.space/css/robotothinitalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotothinitalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotothinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('https://magicbrush.allgoodshere.space/css/robotolight.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotolight.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotolight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('https://magicbrush.allgoodshere.space/css/robotolightitalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotolightitalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotolightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('https://magicbrush.allgoodshere.space/css/roboto.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/roboto.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('https://magicbrush.allgoodshere.space/css/robotoitalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotoitalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('https://magicbrush.allgoodshere.space/css/robotomedium.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotomedium.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotomedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('https://magicbrush.allgoodshere.space/css/robotomediumitalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotomediumitalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotomediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('https://magicbrush.allgoodshere.space/css/robotobold.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotobold.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('https://magicbrush.allgoodshere.space/css/robotobolditalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotobolditalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotobolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('https://magicbrush.allgoodshere.space/css/robotoblack.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotoblack.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotoblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('https://magicbrush.allgoodshere.space/css/robotoblackitalic.woff2') format('woff2'), url('https://magicbrush.allgoodshere.space/css/robotoblackitalic.woff') format('woff'), url('https://magicbrush.allgoodshere.space/css/robotoblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

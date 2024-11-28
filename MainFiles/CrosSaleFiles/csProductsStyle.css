@@ -1,0 +1,172 @@
+
+.SwiperH {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 0px 15px 0px;
+    color: black;
+}
+.work {
+    width: 100%;
+    box-shadow: 0px 4px 2px 0px #00000036;
+    background-color: #fafffb;
+    border-radius: 5px;
+}
+.prImg {
+        box-shadow: none;
+    width: 80%;
+    margin: 0px auto;
+    padding-top: 15px;
+}
+.text-center {
+    text-align: center !important;
+}
+.work .text h3 a {
+    color: #000;
+    font-size: 22px;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+}
+.h3NameText {
+    padding: 0px 10px 0px 10px;
+    max-height: 3em;
+    overflow: hidden;
+    line-height: 1.5;
+    font-size: 22px;
+    color: black;
+}
+.work .text span {
+    letter-spacing: 1px;
+}
+.oldPrice {
+    font-size: 15px;
+    text-decoration: line-through;
+    color: black;
+}
+.newPrice {
+    color: #4ad56a;
+    font-size: 20px;
+}
+.prButton {
+    margin: 5px auto 15px;
+    width: 80%;
+    height: 35px;
+    border: none;
+    font-family: "AvenirNextCyr", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    background: #4ad56a;
+    border-radius: 3px;
+    box-shadow: 0 0 10px #00000052;
+}
+.questionText {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    color: black;
+}
+
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 28px;
+}
+}
+/* Hide default HTML checkbox */
+.switch input {
+    display: none;
+}
+
+/* The slider */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ff6161;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+input:checked + .slider {
+    background-color: #4ad56a;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #4ad56a;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.toggle-container {
+    font-weight: 400;
+    margin-top: 15px;
+    display: flex;
+    align-items: center; /* Выравнивает элементы по центру по вертикали */
+    justify-content: center;
+/*    margin-bottom: 15px;*/
+    padding-bottom: 15px;
+}
+.switch {
+    margin: 0 10px;
+}
+
+.noText {
+    color: #ff6161;
+    padding: 0 5px;
+}
+.yesText {
+    color: #4ad56a;
+    padding: 0 5px;
+}
+.prNameText {
+    margin: 10px 0px 0px 0px;
+    font-weight: 500;
+    font-size: 25px;
+}
